@@ -1,0 +1,7 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/adapter/CustomerDataOverHttps.class
+edu/bu/met/cs665/adapter/UsbToHttpsAdapter.class
+edu/bu/met/cs665/adapter/Customer.class
+edu/bu/met/cs665/adapter/CustomerHttps.class
+edu/bu/met/cs665/adapter/CustomerDataOverUsb.class
+edu/bu/met/cs665/adapter/CustomerUsb.class

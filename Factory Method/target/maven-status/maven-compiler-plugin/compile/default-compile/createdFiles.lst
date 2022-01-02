@@ -1,0 +1,13 @@
+edu/bu/met/cs665/emailGeneration/NewEmailCenter.class
+edu/bu/met/cs665/emailGeneration/ReturningCustomer.class
+edu/bu/met/cs665/emailGeneration/NewCustomer.class
+edu/bu/met/cs665/emailGeneration/FrequentCustomer.class
+edu/bu/met/cs665/emailGeneration/Customer.class
+edu/bu/met/cs665/emailGeneration/VipEmailCenter.class
+edu/bu/met/cs665/emailGeneration/VipCustomer.class
+edu/bu/met/cs665/emailGeneration/FrequentEmailCenter.class
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/emailGeneration/BusinessCustomer.class
+edu/bu/met/cs665/emailGeneration/ReturningEmailCenter.class
+edu/bu/met/cs665/emailGeneration/EmailCenter.class
+edu/bu/met/cs665/emailGeneration/BusinessEmailCenter.class
